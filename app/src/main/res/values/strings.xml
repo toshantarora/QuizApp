@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TrueCitizenQuizApp</string>
+    <string name="question_declaration">The (U.S) Declaration of Independence was Adopted in 1769</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That \'s correct</string>
+    <string name="wrong_answer">That \'s incorrect</string>
+
+    <string name="question_constitution">The Supreme law of the land is the constitution.</string>
+    <string name="question_Amendment">The U.S Constitution has 26 Amendments</string>
+    <string name="question_independence_rights">The two rights in the declaration of Independence are:
+        \n \t <b>Life</b> \n \t <b>Pursuit of happiness</b>.
+    </string>
+
+    <string name="question_religion">freedom of religion means:
+        \n \t <b>You can practice any religion, or nt practice a religion</b>.
+    </string>
+    <string name="question_government">Journalists is on branch or part of the government.</string>
+    <string name="question_government_feds">Congress does not make federal laws.</string>
+    <string name="question_government_senators">There are one hundred(100). U.S Senators</string>
+    <string name="next_text">next</string>
+</resources>
